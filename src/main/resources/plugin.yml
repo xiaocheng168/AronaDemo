@@ -1,0 +1,5 @@
+name: DArona
+version: 1.0.0
+main: cc.mcyx.darona.DArona
+author: Zcc
+description: "这是一个案例插件"
